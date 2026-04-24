@@ -1,0 +1,14 @@
+echo "# Wipro-Great-Learning-Trainings" >> README.md
+git init
+git add README.md
+git commit -m "first commit"
+git branch -M main
+git remote add origin https://github.com/Manishkumarsamal-147/Wipro-Great-Learning-Trainings.git
+git push -u origin main
+
+
+
+
+git remote add origin https://github.com/Manishkumarsamal-147/Wipro-Great-Learning-Trainings.git
+git branch -M main
+git push -u origin main
